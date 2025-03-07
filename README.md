@@ -1,4 +1,3 @@
-"# GEEKBASE-INTERNSHIP-TASKS" 
 This repository contains the tasks I completed during my internship, showcasing my skills in web development. Additionally, I have included my resume and a screenshot of my ATS (Applicant Tracking System) resume analysis.
 
 TASK-1 : Favorite Books (HTML Page)
