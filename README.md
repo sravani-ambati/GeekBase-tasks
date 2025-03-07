@@ -18,5 +18,7 @@ Features:Drag-and-drop functionality for moving disks,Visual representation of t
 
 
 📄 Resume & ATS Analysis
+
 📌 SRAVANI RESUME.docx → My updated resume
+
 📌 Skill Syncer ATS software.png → Screenshot of ATS resume analysis
